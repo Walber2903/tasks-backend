@@ -1,0 +1,17 @@
+{
+  "name": "tasks-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --no-warnings --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5",
+    "node-fetch": "^3.3.2"
+  }
+}
